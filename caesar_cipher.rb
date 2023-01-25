@@ -1,7 +1,7 @@
 def caesar_cipher(input_string, rotations)
 
     alphabet = ("a".."z").to_a
-    alphabet_capital = ("A".."Z").to_a
+    alphabet_capital = .("A".."Z").to_a
     rotated_alphabet = alphabet.rotate(rotations)
     rotated_alphabet_capital = alphabet_capital.rotate(rotations)
     
