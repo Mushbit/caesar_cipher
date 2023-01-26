@@ -6,7 +6,8 @@ Helps you encrypt messages with Caesar's cipher.
  - When recieving or intercepting such messages, there is a way to decrypt them as well!
  
 # What I learned
-- Using and chaining various ruby methods
+- First Ruby project
+- looking for, using and chaining various ruby methods
 - Planning and problem solving
 
 # Acknowledgments
